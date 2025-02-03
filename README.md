@@ -44,7 +44,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries or support, feel free to contact:
-- **Name**: Ankita
+
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/ankita-gupta-34359abcd/)
 - **GitHub**: [@ankita34359](https://github.com/ankita34359)
 
 ---
