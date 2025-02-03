@@ -9,7 +9,7 @@ The **Text-To-Speech Converter** is a web-based application built using HTML, CS
 - Simple and user-friendly interface
 - No external dependencies required
 
-## 🛠️ Installation
+## Installation
 To run this project on your local machine, follow these steps:
 
 ### Steps to Install
@@ -21,12 +21,12 @@ To run this project on your local machine, follow these steps:
 
 2. Open the `index.html` file in your browser.
 
-## 🎤 Usage
+## Usage
 1. Enter the text you want to convert in the provided textarea.
 2. Select a voice (if multiple voices are available).
 3. Click the "Listen" button to hear the converted speech.
 
-## 📜 Technologies Used
+## Technologies Used
 - **HTML**: Structure of the application
 - **CSS**: Styling and layout
 - **JavaScript**: Functionality using Web Speech API
@@ -39,10 +39,10 @@ To run this project on your local machine, follow these steps:
 
 [Text-To-Speech Converter](https://ankita34359.github.io/Text-To-Speech-Converter/)
 
-## 📜 License
+## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact
+## Contact
 For any inquiries or support, feel free to contact:
 - **Name**: Ankita
 - **GitHub**: [@ankita34359](https://github.com/ankita34359)
