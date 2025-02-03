@@ -32,8 +32,8 @@ To run this project on your local machine, follow these steps:
 - **JavaScript**: Functionality using Web Speech API
 
 ## 📷 Screenshots
-(Include screenshots here if available)
 
+![Screenshot](image.png)
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
